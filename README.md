@@ -8,4 +8,4 @@ You can be much more than a simple tester, you can be a __contributor__!
 
 Discuss with the team and the other contributors on what will be the next features on Life.: https://github.com/Life-the-game/Open-Discussions/issues
 
-Your opinion matters. Make the change, be the revolution.
+Your opinion matters. Make the change, be the revolution. __Play the game.__
